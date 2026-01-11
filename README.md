@@ -67,10 +67,10 @@ Model Size: ~99.49 MB
 ![Confusion Matrix](img/cm.png)
 
 ### Test Results
-![Test Output 1 - Dog](img/output1.png)
-![Test Output 2 - Dog](img/output2.png)
-![Test Output 3 - Cat](img/output3.png)
-![Test Output 4 - Cheetah](img/output4.png)
+![Test Output 1 - Dog](Img/output1.png)
+![Test Output 2 - Dog](Img/output2.png)
+![Test Output 3 - Cat](Img/output3.png)
+![Test Output 4 - Cheetah](Img/output4.png)
 
 
 ```
