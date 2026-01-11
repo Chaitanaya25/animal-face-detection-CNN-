@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow notebook
+!Train_Faces.ipynb
+
+# Allow Img folder and its contents
+!Img/
+!Img/*
+
+# Allow .gitignore itself
+!.gitignore
